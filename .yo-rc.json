@@ -1,0 +1,10 @@
+{
+  "generator-jhipster-blueprint": {
+    "promptValues": {
+      "githubName": "geertjanw",
+      "authorName": "Geertjan Wielenga",
+      "authorEmail": "geertjan.wielenga@oracle.com",
+      "authorUrl": "blogs.oracle.com/geertjan"
+    }
+  }
+}
