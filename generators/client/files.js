@@ -17,11 +17,6 @@
  * limitations under the License.
  */
 
-/**
- * The default is to use a file path string. It implies use of the template method.
- * For any other config an object { file:.., method:.., template:.. } can be used
-*/
-
 module.exports = {
     writeFiles
 };
